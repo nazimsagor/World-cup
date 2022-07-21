@@ -1,5 +1,10 @@
+/* font css  */
+
 @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=Finlandica:ital,wght@1,500&family=Roboto+Mono:ital,wght@1,200;1,400&family=Ubuntu:wght@500;700&display=swap');
 
+/*--------- 
+common css
+------------  */
 body {
     font-family: 'Bitter', serif;
     font-family: 'Finlandica', sans-serif;
@@ -17,7 +22,9 @@ section {
     margin: 0 100px;
 }
 
-/* header start css  */
+/*------------------- 
+header start css 
+------------------- */
 
 
 .top-banner {
@@ -79,7 +86,9 @@ section {
 
 }
 
-/* navigation bar css */
+/*---------- 
+navigation bar css 
+------------*/
 nav {
     background-color: #161616;
     height: 350px;
@@ -124,7 +133,8 @@ nav a:hover {
     color: #ffffff;
 }
 
-/* blog-section  css start */
+/* ----------------
+blog-section  css start ------------*/
 .information-section {
     display: flex;
 }
@@ -186,7 +196,9 @@ nav a:hover {
 
 
 
-/* upcoming match css :start */
+/* ---------
+upcoming match css :start
+ -----------*/
 .upcoming-match {
 
     display: grid;
@@ -237,7 +249,8 @@ nav a:hover {
 
 
 
-/* footerer css  */
+/*---------- footerer css
+---------------  */
 
 footer {
     text-align: center;
