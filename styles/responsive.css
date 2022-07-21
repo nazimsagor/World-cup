@@ -135,6 +135,9 @@
         margin-top: 20px;
         margin-bottom: 10px;
         background-color: #FFFFFF;
+        width: 100%;
+        padding-left: 10px;
+
 
     }
 
@@ -215,7 +218,7 @@
         display: flex;
 
         padding-left: 30px;
-        margin-top: 10px;
+        margin-top: 50px;
 
     }
 
@@ -261,14 +264,11 @@
 
     nav {
 
-        border-radius: 00px;
+
         padding: 0;
         margin-right: 0px;
-
-        flex-direction: row;
+        display: flex;
         background-color: #FFFFFF;
-
-
         width: 100%;
         margin-bottom: 50px;
     }
@@ -276,7 +276,9 @@
     nav a {
         border: 1px solid rgba(232, 232, 232, 1);
         color: rgba(22, 22, 22, 1);
-        width: 230px;
+        padding: 30px 20px;
+
+        margin-left: 30px;
     }
 
     .blog-secton {
@@ -310,14 +312,14 @@
 
     footer a {
         font-size: 20px;
-        padding-left: 30px;
+        padding-left: 40px;
     }
 
 
 
     footer .social-icon {
-        padding: 50px;
-        font-size: 50px;
+        padding: 30px;
+        font-size: 30px;
     }
 
     /* --------------------------
